@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="deneme">
+    <file>../asdas/ECZANEFOTO.png</file>
+  </qresource>
+</RCC>
